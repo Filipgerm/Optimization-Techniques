@@ -1,5 +1,5 @@
 # Optimization-Techniques
-This repository contains some projects realised for the "Optimization Techniques" course, during the 7th semester of the Electrical and Computer Engineering Undergraduate program.
+This repository contains some projects realised for the "Optimization Techniques" course, during the 7th semester of the Electrical and Computer Engineering Undergraduate program in Aristotle University of Thessaloniki.
 
 # Project-1
 Minimization of a convex function without restrictions [Pt. 1]
